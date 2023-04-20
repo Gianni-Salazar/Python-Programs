@@ -1,5 +1,4 @@
 # Gianni Salazar
-# Feb 13, 2023
 # This program is a multi-way decision. And a nested decision
 # This program will display an insurance premium on an age input
 
