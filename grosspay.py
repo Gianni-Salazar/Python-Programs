@@ -1,5 +1,4 @@
-# Sherry Cox
-# Jan 31, 2023
+# Gianni Salazar
 # This program will get user input for name, hours worked, and hourly pay
 # then calculate and display the weekly gross pay and annual gross pay
 
