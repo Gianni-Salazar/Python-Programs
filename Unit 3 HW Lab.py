@@ -1,6 +1,5 @@
 # Gianni Salazar
-# February 27, 2023
-# Unit 3 HW LAB
+# USA Trivia Game
 
 
 from time import sleep
