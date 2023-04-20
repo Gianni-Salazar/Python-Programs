@@ -1,5 +1,4 @@
 #Gianni Salazar
-#March 20, 2023
 #This program demonstrates non-value returning function
 
 
