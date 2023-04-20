@@ -1,5 +1,4 @@
 #Gianni Salazar
-#April 2, 2023
 #This program will be a Guess the Mystery Number Game
 
 
