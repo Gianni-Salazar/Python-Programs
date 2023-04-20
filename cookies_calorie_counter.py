@@ -1,6 +1,6 @@
 # Gianni Salazar
 # February 6, 2023
-# This program calculates the number of calories cinsumed by a customer
+# This program calculates the number of calories consumed by a customer
 # based on the number of cookies the customer ate.
 
 
