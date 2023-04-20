@@ -1,5 +1,4 @@
 # Gianni Salazar
-# January 30, 2023
 # This program will ask for a name and age and display them
 
 
