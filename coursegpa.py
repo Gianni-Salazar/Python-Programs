@@ -1,5 +1,4 @@
 # Gianni Salazar
-# April 10, 2023
 # This program will read in a name and some course grades to a list
 # and display a gpa and write it out to a file
 
