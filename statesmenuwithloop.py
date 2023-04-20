@@ -1,5 +1,4 @@
 # Gianni Salazar
-# February 20, 2023
 # This program presents an option with 4 possible states
 # then tells the capital of their choice
 
